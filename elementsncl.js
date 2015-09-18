@@ -1,0 +1,1 @@
+var view_results_link = element.by.id('filter-submit');
